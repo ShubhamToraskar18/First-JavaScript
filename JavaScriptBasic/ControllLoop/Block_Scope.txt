@@ -1,0 +1,15 @@
+Scope determines the accessibility(Visibility) of Variable.
+
+Types: 1. Global
+       2. Local
+
+Local subtypes : Function scope , block scope
+
+Global Scope: Variable declared outside of any function or block 
+are in the global scope.
+
+Function scope: Variables declared inside a function are only accessible 
+within that function.
+ 
+block scope: Variable declared using "let" or "const" inside a {} block
+(like if, for, etc.) are block-scoped

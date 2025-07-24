@@ -34,3 +34,10 @@ console.log(users.slice(2,5))
 
 console.log(users.substring(-4,5));
 console.log(users.slice(-4,-6));
+
+//substring vs Slice
+//Negative index Behaviour (possible in slice)
+//Swapping index (possible in substring)
+let str = "SAIDEEP";
+console.log(str.slice(4,2));
+console.log(str.substring(4,2));

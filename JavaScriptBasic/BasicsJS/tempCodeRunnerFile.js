@@ -1,1 +1,1 @@
-  
+console.log(num.slice(2,5))
