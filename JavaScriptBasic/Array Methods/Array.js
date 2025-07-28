@@ -26,10 +26,10 @@
 // console.log("After:",num) 
 
 
-let val = (n1 ,n2)=>{
-    console.log(n1);
-    return n1+n2;
-}
+// let val = (n1 ,n2)=>{
+//     console.log(n1);
+//     return n1+n2;
+// }
 
-console.log(val(2,4))
+// console.log(val(2,4))
 
