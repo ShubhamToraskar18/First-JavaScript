@@ -14,7 +14,7 @@ console.log(studentInfo)
 studentInfo.Email = "Raj@gmail.com";
 console.log(studentInfo)
 
-Object.freeze(studentInfo)
+//Object.freeze(studentInfo)
 studentInfo.age=21
 console.log(studentInfo)
 studentInfo.ID = "101";
