@@ -9,6 +9,7 @@ function function1(Callback){
 
 function function2(Callback){
     console.log("Good bye!");
+    Callback();
 }
 
 function function3(){

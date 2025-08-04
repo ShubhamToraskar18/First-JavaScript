@@ -1,0 +1,32 @@
+
+
+|       Feature         |          JavaScript (JS)             |                 Node.js                   |
+| --------------------- | ------------------------------------ | ----------------------------------------- |
+| **Type**              | Programming language                 | JS runtime environment                    |
+| **Usage**             | Client-side scripting                | Server-side scripting                     |
+| **Execution Context** | Runs in the browser                  | Runs outside the browser                  |
+| **Engine**            | Uses JS engines (e.g., V8 in Chrome) | Built on Google’s V8 JavaScript engine    |
+| **Platform**          | Runs in web browsers                 | Cross-platform (Windows, macOS, Linux)    |
+| **Open-source**       | Yes                                  | Yes                                       |
+| **Purpose**           | Mainly for frontend development      | Backend development and server-side tasks |
+| **Examples**          | DOM manipulation, form validation    | File handling, APIs, databases, servers   |
+
+
+
+
+
+NPM Overview – 5 Key Points:
+Default Package Manager:
+NPM is the default package manager for Node.js, used to manage JavaScript packages and dependencies.
+
+Command Line Interface (CLI):
+It provides a powerful CLI to install, update, and remove packages directly from the terminal.
+
+Online Registry:
+NPM connects to a massive online registry (https://www.npmjs.com/) of open-source JavaScript packages.
+
+Dependency Management:
+It manages project dependencies through package.json and locks them using package-lock.json.
+
+Local & Global Installation + Publishing:
+Supports both local and global package installations, and lets developers create and publish their own packages to the NPM registry.
